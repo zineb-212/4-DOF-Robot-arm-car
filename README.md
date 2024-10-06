@@ -1,4 +1,4 @@
-# 4-DOF-Robot-arm-car
+# 4-DOF-Robot-arm-car 🦾
  <img width="700" alt="a"  src="https://github.com/user-attachments/assets/894c5c7d-98e9-43d3-a862-ffdaf3641126">
 
  ## Overview
