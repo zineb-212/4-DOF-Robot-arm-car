@@ -2,7 +2,7 @@
  <img width="700" alt="a"  src="https://github.com/user-attachments/assets/894c5c7d-98e9-43d3-a862-ffdaf3641126">
 
  ## Overview
- My team and I developed a 4 DOF (Degrees of Freedom) robot arm car using Arduino technology, designed for precise object manipulation and autonomous movement. We assembled it from various pieces and programmed it to feature four joints, allowing it to execute complex pick-and-place tasks with precision. The Arduino microcontroller controls the motors and servos, enabling smooth and stable movement across a plane while ensuring balance during operation.
+ My team and I developed a 4 DOF (Degrees of Freedom) robot arm car using Arduino technology, designed for precise object manipulation and autonomous movement. We assembled it and programmed it to feature four joints, allowing it to execute complex pick-and-place tasks with precision. The Arduino microcontroller controls the motors and servos, enabling smooth and stable movement across a plane while ensuring balance during operation.
 
  ## Main features
  - **Pick and Place:** Capable of picking and placing objects with precision, controlled via a mobile phone or game controller.
